@@ -1,0 +1,117 @@
+body {
+    background:#ffffff;
+}
+
+#navLinks { 
+    justify-content: flex-end;
+}
+
+#home, #projects, #cv, #art{
+    
+    margin: 2em 1em 0 1em;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+
+#navbar-button {
+    align-items: flex-end;
+}
+
+.circular--square 
+{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%; 
+    margin-bottom: 100px;
+
+}
+
+#box-wysiwyg
+{
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px rgb(103, 180, 243);
+    margin-bottom: 65px;
+  }
+.tababoutme
+{
+ 
+   font-size: larger;
+   font-size: large;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 200;
+   margin-bottom: 65px;
+
+}
+
+.card
+{
+    margin-left:50px;
+    margin-bottom: 65px;
+}
+
+.card-text
+{
+    font-weight: 400;
+    line-height: 120%;
+    font-size: larger;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    line-height: 120%;
+    text-align: center;
+
+}
+
+p {
+    /* Center horizontally*/
+    text-align: center;
+ 
+  }
+ 
+  .cardallign
+  {
+      
+   margin-bottom: 200px;
+  }
+  .coreskillstitle
+  {
+     
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 45px;
+    margin-bottom: 65px;
+
+  }
+
+.form
+{
+
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
